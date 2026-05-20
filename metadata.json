@@ -1,0 +1,6 @@
+{
+  "name": "Nova Client",
+  "description": "The Ultimate 1.8.9 PvP Experience. Modern, optimized, and customizable Minecraft PvP client with premium features.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
